@@ -1,3 +1,24 @@
+
+Models a Hotel with 'n' rooms.
+Rooms may be occupied or vacant.
+This application is used by the font desk to perform operations like query vacant rooms.
+* Book a reservations.
+* Checkin.
+* Checkout.
+
+
+### Task1:
+
+Identify & Define Model:
+
+Hint: http://www.typescriptlang.org/ find out Classes and Interfraces.
+
+
+
+
+
+
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
